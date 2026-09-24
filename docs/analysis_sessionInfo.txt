@@ -1,0 +1,25 @@
+R version 4.4.2 (2024-10-31)
+Platform: aarch64-apple-darwin20
+Running under: macOS 26.6.2
+
+Matrix products: default
+BLAS:   /Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/lib/libRblas.0.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.0
+
+locale:
+[1] C.UTF-8/C.UTF-8/C.UTF-8/C/C.UTF-8/C.UTF-8
+
+time zone: America/Chicago
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] jsonlite_2.0.0    data.table_1.17.8
+
+loaded via a namespace (and not attached):
+ [1] bit_4.6.0       compiler_4.4.2  fastmap_1.2.0   cli_3.6.5      
+ [5] tools_4.4.2     DBI_1.2.3       memoise_2.0.1   bit64_4.6.0-1  
+ [9] vctrs_0.6.5     RSQLite_2.3.11  cachem_1.1.0    blob_1.2.4     
+[13] pkgconfig_2.0.3 rlang_1.1.6    

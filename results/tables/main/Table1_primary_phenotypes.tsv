@@ -1,0 +1,7 @@
+trait	phenotype	label	definition	window	units	eligible_lines	eligible_line_batches	repeated_lines	batch_pairs	repeatability_rho	rho_ci_low	rho_ci_high
+NightSleepChange	DarkSleep__D6_D1	Night sleep change	Night sleep on D6 minus D1 (ZT8-24)	D6 minus D1	min	176	256	67	95	0.564196108382961	0.337708987892817	0.719194077400459
+MovingShapePC1	PCA_moving_centered_shape_PC1	Moving shape PC1	PC1 of mean-centered 48-bin moving profiles	D2-D6	PC score	176	256	67	95	0.578404235588885	0.385527352524494	0.704691337179916
+NightPWake	PWakeDark__State_D2_D6	Night P(Wake)	Corrected log odds of one-minute inactive-to-active transitions (ZT8-24)	D2-D6	log odds	176	256	67	95	0.71250905451606	0.536956017079442	0.832601173739961
+NightPDoze	PDozeDark__State_D2_D6	Night P(Doze)	Corrected log odds of one-minute active-to-inactive transitions (ZT8-24)	D2-D6	log odds	176	253	65	91	0.715902157414089	0.511242285065106	0.814476154491255
+LDHarmonicR2	TwoHarmonicR2__State_D2_D6	LD harmonic R2	Daily moving-profile variance explained by fixed 24 h and 12 h harmonics	D2-D6	fraction	176	256	67	95	0.652530540401513	0.466668449699518	0.763357139217886
+TotalSleep	TotalSleep__State_D2_D6	Total sleep	Sleep minutes per 24 h day	D2-D6	min/day	176	256	67	95	0.810983696622097	0.686191543103938	0.882066036163116

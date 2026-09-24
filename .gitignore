@@ -1,0 +1,9 @@
+.DS_Store
+.downloads/
+release_assets/
+rerun/
+data/raw_dam/
+reproducibility/*
+!reproducibility/scripts/
+reproducibility/scripts/__pycache__/
+*.pyc

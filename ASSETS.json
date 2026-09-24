@@ -1,0 +1,65 @@
+[
+  {
+    "name": "dam_recordings.tar.gz",
+    "bytes": 49064187,
+    "sha256": "7c6dd452b7916375a7d1e16055b4b9ea96d559139b107f883194d47722351450",
+    "files": 406,
+    "url": "https://github.com/zhangfei1947/DGRP_WinterLikeSleep/releases/download/v1.0.0/dam_recordings.tar.gz"
+  },
+  {
+    "name": "reproduction_inputs.tar.gz",
+    "bytes": 114598972,
+    "sha256": "cd55b0378dd987e9fb31e421a7b32065f0a9889a4ca1a0f7a60220b967f95645",
+    "files": 225,
+    "url": "https://github.com/zhangfei1947/DGRP_WinterLikeSleep/releases/download/v1.0.0/reproduction_inputs.tar.gz"
+  },
+  {
+    "name": "gwas_genotypes.tar.gz",
+    "bytes": 61392323,
+    "sha256": "aa074ae599fe32123350379fc117d770052dd68394e5616d542ff393b4e00f31",
+    "files": 5,
+    "url": "https://github.com/zhangfei1947/DGRP_WinterLikeSleep/releases/download/v1.0.0/gwas_genotypes.tar.gz"
+  },
+  {
+    "name": "gwas_NightSleepChange.tar.gz",
+    "bytes": 351303622,
+    "sha256": "4aa5662ce5903a72c8f4fb8c25b999a864d410d772788d4ba4d594caec9c1c78",
+    "files": 14,
+    "url": "https://github.com/zhangfei1947/DGRP_WinterLikeSleep/releases/download/v1.0.0/gwas_NightSleepChange.tar.gz"
+  },
+  {
+    "name": "gwas_MovingShapePC1.tar.gz",
+    "bytes": 356504641,
+    "sha256": "75475b6929c2fdb43d9ddd9bb8ca2b95789b03247899d8198884ad1e60e6dad8",
+    "files": 14,
+    "url": "https://github.com/zhangfei1947/DGRP_WinterLikeSleep/releases/download/v1.0.0/gwas_MovingShapePC1.tar.gz"
+  },
+  {
+    "name": "gwas_NightPWake.tar.gz",
+    "bytes": 356185675,
+    "sha256": "7ee3b740ebd97794e52721cd85d548a98eecdc67bac20f39293aeb833e4bf946",
+    "files": 14,
+    "url": "https://github.com/zhangfei1947/DGRP_WinterLikeSleep/releases/download/v1.0.0/gwas_NightPWake.tar.gz"
+  },
+  {
+    "name": "gwas_NightPDoze.tar.gz",
+    "bytes": 356003698,
+    "sha256": "5ae5719b29c2145f3d46ab06e2aab6dcfc574d5eacfc3f3838f38ff753ef0469",
+    "files": 14,
+    "url": "https://github.com/zhangfei1947/DGRP_WinterLikeSleep/releases/download/v1.0.0/gwas_NightPDoze.tar.gz"
+  },
+  {
+    "name": "gwas_LDHarmonicR2.tar.gz",
+    "bytes": 355760227,
+    "sha256": "47737267e3c4380c166668701a764febdfbd680347425809ae768be634bd5c7c",
+    "files": 14,
+    "url": "https://github.com/zhangfei1947/DGRP_WinterLikeSleep/releases/download/v1.0.0/gwas_LDHarmonicR2.tar.gz"
+  },
+  {
+    "name": "gwas_TotalSleep.tar.gz",
+    "bytes": 351644342,
+    "sha256": "89024b75804ddb78cb7375d3b4a68a9aeeef4a0a908784dd3b77bff1ab1d85a0",
+    "files": 14,
+    "url": "https://github.com/zhangfei1947/DGRP_WinterLikeSleep/releases/download/v1.0.0/gwas_TotalSleep.tar.gz"
+  }
+]

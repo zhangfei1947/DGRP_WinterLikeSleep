@@ -1,0 +1,63 @@
+{
+  "raw_files": 286,
+  "batches": 30,
+  "raw_source_bytes": 20700466901,
+  "cropped_bytes": 264999380,
+  "all_original_hashes_match_frozen_analysis": true,
+  "regenerated_figure_source_tables": 26,
+  "regenerated_source_tables_byte_identical": true,
+  "validation_date": "2026-09-24",
+  "raw_rebuild_all_30_batches": {
+    "fly_qc_all_batches.csv": {
+      "source_exists": true,
+      "rebuilt_exists": true,
+      "byte_identical": true
+    },
+    "window_metrics_all_batches.csv": {
+      "source_exists": true,
+      "rebuilt_exists": true,
+      "byte_identical": true
+    },
+    "individual_phenotypes_all_batches.csv": {
+      "source_exists": true,
+      "rebuilt_exists": true,
+      "byte_identical": true
+    },
+    "daily_qc_all_batches.csv": {
+      "source_exists": true,
+      "rebuilt_exists": true,
+      "byte_identical": true
+    }
+  },
+  "profile_rebuild_all_30_batches": {
+    "completed": true,
+    "scientific_tsv_outputs_compared": 32,
+    "scientific_tsv_outputs_byte_identical": true,
+    "excluded_provenance_only_files": [
+      "input_checksums.tsv",
+      "analysis_code_checksums.tsv",
+      "qa/figure_manifest.tsv"
+    ]
+  },
+  "figure_validation": {
+    "figures_regenerated": 11,
+    "source_tsvs_byte_identical": 26,
+    "independent_profile_checks_passed": 10
+  },
+  "table_validation": {
+    "main_tables": 2,
+    "supplementary_table_groups": 8,
+    "supplementary_files": 33,
+    "source_copy_hashes_match": true
+  },
+  "gwas_eligibility": {
+    "scans_checked": 36,
+    "variant_count_minimum_p_nominal_hits_and_lambda_match": true
+  },
+  "gwas_rerun": {
+    "trait": "NightSleepChange",
+    "model": "primary",
+    "byte_identical": true
+  },
+  "scope": "One primary GWAS was rerun; all 36 frozen scans were validated after cohort-specific masking. Every sensitivity analysis was not rerun."
+}

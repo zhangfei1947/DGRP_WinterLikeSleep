@@ -1,0 +1,2401 @@
+Genotype	Batch	slot	value	n_flies	signal	zt	nb	n	label
+"CS"	"Batch10_DGRP"	0	0.324	30	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	1	0.266222222222222	30	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	2	0.270666666666667	30	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	3	0.285555555555556	30	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	4	0.283555555555556	30	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	5	0.271555555555556	30	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	6	0.242666666666667	30	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	7	0.250666666666667	30	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	8	0.233111111111111	30	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	9	0.215333333333333	30	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	10	0.208	30	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	11	0.220666666666667	30	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	12	0.216666666666667	30	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	13	0.199333333333333	30	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	14	0.218444444444444	30	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	15	0.201555555555556	30	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	16	0.590444444444445	30	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	17	0.613777777777778	30	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	18	0.667111111111111	30	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	19	0.690222222222222	30	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	20	0.730444444444444	30	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	21	0.717555555555556	30	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	22	0.663555555555556	30	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	23	0.566666666666667	30	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	24	0.376	30	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	25	0.206	30	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	26	0.110444444444444	30	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	27	0.0713333333333333	30	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	28	0.0628888888888889	30	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	29	0.07	30	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	30	0.0582222222222222	30	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	31	0.0577777777777778	30	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	32	0.0475555555555556	30	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	33	0.052	30	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	34	0.0515555555555556	30	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	35	0.0597777777777778	30	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	36	0.0784444444444444	30	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	37	0.0822222222222222	30	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	38	0.0844444444444445	30	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	39	0.0868888888888889	30	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	40	0.100666666666667	30	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	41	0.107333333333333	30	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	42	0.118222222222222	30	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	43	0.161333333333333	30	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	44	0.224666666666667	30	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	45	0.321555555555556	30	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	46	0.431111111111111	30	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch10_DGRP"	47	0.518444444444445	30	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	0	0.364367816091954	29	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	1	0.350574712643678	29	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	2	0.34	29	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	3	0.338850574712644	29	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	4	0.345287356321839	29	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	5	0.331034482758621	29	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	6	0.311494252873563	29	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	7	0.302528735632184	29	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	8	0.271034482758621	29	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	9	0.235632183908046	29	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	10	0.242758620689655	29	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	11	0.222988505747126	29	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	12	0.218620689655172	29	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	13	0.208735632183908	29	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	14	0.214252873563218	29	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	15	0.220229885057471	29	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	16	0.491034482758621	29	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	17	0.599080459770115	29	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	18	0.653333333333333	29	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	19	0.704597701149425	29	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	20	0.728965517241379	29	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	21	0.754252873563218	29	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	22	0.70551724137931	29	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	23	0.571034482758621	29	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	24	0.378620689655172	29	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	25	0.226436781609195	29	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	26	0.142528735632184	29	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	27	0.105057471264368	29	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	28	0.0818390804597701	29	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	29	0.0772413793103448	29	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	30	0.0786206896551724	29	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	31	0.08	29	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	32	0.0896551724137931	29	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	33	0.0724137931034483	29	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	34	0.0779310344827586	29	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	35	0.0873563218390805	29	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	36	0.104137931034483	29	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	37	0.106206896551724	29	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	38	0.0986206896551724	29	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	39	0.114252873563218	29	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	40	0.131494252873563	29	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	41	0.151494252873563	29	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	42	0.169655172413793	29	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	43	0.202528735632184	29	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	44	0.317931034482759	29	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	45	0.397471264367816	29	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	46	0.469195402298851	29	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch11_DGRP"	47	0.520919540229885	29	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	0	0.254666666666667	30	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	1	0.154888888888889	30	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	2	0.173111111111111	30	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	3	0.196	30	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	4	0.183333333333333	30	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	5	0.183333333333333	30	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	6	0.203333333333333	30	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	7	0.182222222222222	30	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	8	0.187111111111111	30	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	9	0.174888888888889	30	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	10	0.171111111111111	30	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	11	0.172	30	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	12	0.159333333333333	30	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	13	0.190666666666667	30	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	14	0.186	30	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	15	0.204222222222222	30	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	16	0.654222222222222	30	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	17	0.682	30	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	18	0.606666666666667	30	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	19	0.597333333333333	30	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	20	0.618444444444445	30	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	21	0.613333333333333	30	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	22	0.582	30	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	23	0.503555555555556	30	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	24	0.403777777777778	30	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	25	0.288222222222222	30	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	26	0.195777777777778	30	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	27	0.143555555555556	30	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	28	0.12	30	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	29	0.108222222222222	30	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	30	0.101777777777778	30	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	31	0.108888888888889	30	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	32	0.104	30	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	33	0.110444444444444	30	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	34	0.102222222222222	30	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	35	0.108444444444444	30	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	36	0.126222222222222	30	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	37	0.128444444444444	30	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	38	0.142222222222222	30	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	39	0.186888888888889	30	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	40	0.191555555555556	30	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	41	0.189111111111111	30	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	42	0.237555555555556	30	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	43	0.293111111111111	30	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	44	0.326222222222222	30	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	45	0.375777777777778	30	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	46	0.460888888888889	30	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch12_DGRP"	47	0.480888888888889	30	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	0	0.315208333333333	32	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	1	0.321666666666667	32	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	2	0.343333333333333	32	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	3	0.336875	32	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	4	0.312708333333333	32	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	5	0.285416666666667	32	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	6	0.27625	32	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	7	0.274791666666667	32	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	8	0.2825	32	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	9	0.270625	32	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	10	0.228541666666667	32	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	11	0.247916666666667	32	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	12	0.254375	32	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	13	0.226041666666667	32	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	14	0.551458333333333	32	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	15	0.55875	32	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	16	0.689166666666667	32	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	17	0.72625	32	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	18	0.757708333333333	32	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	19	0.745833333333333	32	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	20	0.742708333333333	32	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	21	0.677916666666667	32	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	22	0.56875	32	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	23	0.434166666666667	32	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	24	0.342708333333333	32	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	25	0.266458333333333	32	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	26	0.187708333333333	32	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	27	0.169583333333333	32	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	28	0.164375	32	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	29	0.168541666666667	32	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	30	0.183333333333333	32	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	31	0.184791666666667	32	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	32	0.185	32	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	33	0.20125	32	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	34	0.188541666666667	32	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	35	0.205	32	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	36	0.225208333333333	32	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	37	0.235	32	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	38	0.256875	32	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	39	0.286875	32	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	40	0.296041666666667	32	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	41	0.342916666666667	32	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	42	0.4325	32	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	43	0.529375	32	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	44	0.61375	32	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	45	0.615625	32	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	46	0.357916666666667	32	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch13_DGRP"	47	0.302708333333333	32	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	0	0.131666666666667	12	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	1	0.145555555555556	12	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	2	0.136111111111111	12	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	3	0.141111111111111	12	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	4	0.112777777777778	12	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	5	0.103333333333333	12	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	6	0.115555555555556	12	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	7	0.113888888888889	12	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	8	0.0733333333333333	12	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	9	0.0833333333333333	12	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	10	0.0777777777777778	12	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	11	0.07	12	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	12	0.08	12	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	13	0.0788888888888889	12	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	14	0.424444444444444	12	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	15	0.502222222222222	12	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	16	0.52	12	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	17	0.597222222222222	12	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	18	0.638333333333333	12	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	19	0.636666666666667	12	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	20	0.591666666666667	12	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	21	0.456666666666667	12	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	22	0.305555555555556	12	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	23	0.183333333333333	12	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	24	0.0966666666666667	12	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	25	0.0427777777777778	12	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	26	0.0122222222222222	12	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	27	0.00888888888888889	12	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	28	0.00111111111111111	12	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	29	0.01	12	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	30	0.00888888888888889	12	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	31	0.00222222222222222	12	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	32	0.00777777777777778	12	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	33	0.01	12	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	34	0.00222222222222222	12	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	35	0.00555555555555555	12	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	36	0.00833333333333334	12	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	37	0.0238888888888889	12	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	38	0.0466666666666667	12	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	39	0.0733333333333333	12	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	40	0.0683333333333333	12	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	41	0.0827777777777778	12	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	42	0.134444444444444	12	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	43	0.205	12	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	44	0.277777777777778	12	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	45	0.33	12	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	46	0.17	12	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch14_DGRP"	47	0.113333333333333	12	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	0	0.282	30	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	1	0.295555555555556	30	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	2	0.259777777777778	30	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	3	0.217555555555556	30	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	4	0.213111111111111	30	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	5	0.226	30	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	6	0.232222222222222	30	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	7	0.204888888888889	30	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	8	0.221111111111111	30	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	9	0.216222222222222	30	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	10	0.250444444444444	30	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	11	0.243111111111111	30	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	12	0.267555555555556	30	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	13	0.268222222222222	30	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	14	0.609555555555556	30	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	15	0.617333333333333	30	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	16	0.608666666666667	30	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	17	0.648444444444445	30	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	18	0.672	30	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	19	0.700222222222222	30	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	20	0.667333333333333	30	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	21	0.553333333333333	30	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	22	0.334222222222222	30	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	23	0.195333333333333	30	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	24	0.114888888888889	30	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	25	0.0526666666666667	30	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	26	0.0391111111111111	30	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	27	0.0411111111111111	30	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	28	0.0406666666666667	30	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	29	0.0528888888888889	30	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	30	0.0384444444444445	30	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	31	0.0462222222222222	30	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	32	0.0542222222222222	30	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	33	0.0571111111111111	30	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	34	0.0602222222222222	30	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	35	0.0788888888888889	30	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	36	0.0744444444444444	30	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	37	0.0788888888888889	30	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	38	0.100666666666667	30	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	39	0.115333333333333	30	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	40	0.122666666666667	30	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	41	0.148222222222222	30	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	42	0.2	30	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	43	0.275333333333333	30	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	44	0.344666666666667	30	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	45	0.401777777777778	30	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	46	0.364666666666667	30	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch15_DGRP"	47	0.299777777777778	30	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	0	0.281449275362319	23	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	1	0.256811594202899	23	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	2	0.240579710144928	23	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	3	0.214782608695652	23	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	4	0.190144927536232	23	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	5	0.197101449275362	23	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	6	0.178260869565217	23	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	7	0.176811594202899	23	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	8	0.149855072463768	23	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	9	0.178550724637681	23	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	10	0.180869565217391	23	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	11	0.18463768115942	23	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	12	0.185797101449275	23	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	13	0.18695652173913	23	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	14	0.481449275362319	23	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	15	0.566086956521739	23	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	16	0.610434782608696	23	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	17	0.620289855072464	23	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	18	0.652173913043478	23	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	19	0.627246376811594	23	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	20	0.603188405797101	23	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	21	0.496811594202899	23	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	22	0.373623188405797	23	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	23	0.211594202898551	23	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	24	0.123188405797101	23	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	25	0.071304347826087	23	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	26	0.0565217391304348	23	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	27	0.0611594202898551	23	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	28	0.0484057971014493	23	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	29	0.0576811594202899	23	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	30	0.0649275362318841	23	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	31	0.0660869565217391	23	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	32	0.0823188405797101	23	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	33	0.0791304347826087	23	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	34	0.0991304347826087	23	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	35	0.0791304347826087	23	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	36	0.0794202898550725	23	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	37	0.0997101449275362	23	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	38	0.124057971014493	23	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	39	0.15768115942029	23	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	40	0.151304347826087	23	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	41	0.174202898550725	23	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	42	0.284347826086957	23	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	43	0.368405797101449	23	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	44	0.408985507246377	23	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	45	0.43304347826087	23	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	46	0.326376811594203	23	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch16_DGRP"	47	0.250434782608696	23	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	0	0.152063492063492	21	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	1	0.177460317460317	21	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	2	0.157142857142857	21	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	3	0.132698412698413	21	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	4	0.114285714285714	21	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	5	0.104761904761905	21	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	6	0.080952380952381	21	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	7	0.0736507936507937	21	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	8	0.0904761904761905	21	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	9	0.086984126984127	21	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	10	0.0768253968253968	21	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	11	0.0961904761904762	21	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	12	0.0825396825396825	21	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	13	0.0882539682539683	21	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	14	0.527936507936508	21	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	15	0.635555555555556	21	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	16	0.626349206349206	21	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	17	0.641269841269841	21	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	18	0.663174603174603	21	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	19	0.681587301587302	21	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	20	0.62	21	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	21	0.475873015873016	21	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	22	0.28031746031746	21	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	23	0.111428571428571	21	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	24	0.0323809523809524	21	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	25	0.00952380952380952	21	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	26	0.00825396825396825	21	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	27	0.00444444444444444	21	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	28	0.0073015873015873	21	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	29	0.00888888888888889	21	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	30	0.0123809523809524	21	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	31	0.00984126984126984	21	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	32	0.0244444444444444	21	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	33	0.0225396825396825	21	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	34	0.0234920634920635	21	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	35	0.0193650793650794	21	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	36	0.0253968253968254	21	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	37	0.026984126984127	21	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	38	0.0326984126984127	21	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	39	0.0444444444444444	21	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	40	0.0349206349206349	21	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	41	0.0415873015873016	21	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	42	0.111111111111111	21	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	43	0.232380952380952	21	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	44	0.360952380952381	21	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	45	0.395238095238095	21	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	46	0.257142857142857	21	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch18_DGRP"	47	0.150793650793651	21	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	0	0.329876543209877	27	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	1	0.34	27	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	2	0.338765432098765	27	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	3	0.291604938271605	27	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	4	0.291358024691358	27	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	5	0.263950617283951	27	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	6	0.257777777777778	27	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	7	0.237283950617284	27	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	8	0.219259259259259	27	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	9	0.20641975308642	27	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	10	0.206666666666667	27	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	11	0.221975308641975	27	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	12	0.242716049382716	27	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	13	0.254814814814815	27	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	14	0.669382716049383	27	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	15	0.720493827160494	27	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	16	0.719753086419753	27	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	17	0.751851851851852	27	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	18	0.783950617283951	27	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	19	0.796296296296296	27	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	20	0.78	27	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	21	0.656543209876543	27	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	22	0.420493827160494	27	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	23	0.237777777777778	27	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	24	0.154814814814815	27	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	25	0.120246913580247	27	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	26	0.118271604938272	27	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	27	0.136296296296296	27	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	28	0.139753086419753	27	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	29	0.14	27	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	30	0.151851851851852	27	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	31	0.136296296296296	27	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	32	0.154814814814815	27	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	33	0.161481481481481	27	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	34	0.192592592592593	27	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	35	0.188148148148148	27	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	36	0.207407407407407	27	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	37	0.211111111111111	27	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	38	0.220246913580247	27	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	39	0.213333333333333	27	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	40	0.22962962962963	27	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	41	0.32	27	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	42	0.400493827160494	27	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	43	0.460987654320988	27	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	44	0.552098765432099	27	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	45	0.601975308641975	27	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	46	0.420987654320988	27	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch19_DGRP"	47	0.362222222222222	27	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	0	0.479540229885058	29	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	1	0.505747126436782	29	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	2	0.455632183908046	29	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	3	0.392183908045977	29	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	4	0.392873563218391	29	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	5	0.362988505747126	29	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	6	0.323448275862069	29	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	7	0.274942528735632	29	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	8	0.268735632183908	29	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	9	0.274252873563218	29	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	10	0.254252873563218	29	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	11	0.247879508521601	29	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	12	0.282298850574713	29	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	13	0.276091954022988	29	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	14	0.656091954022989	29	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	15	0.616781609195402	29	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	16	0.68551724137931	29	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	17	0.713103448275862	29	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	18	0.729885057471264	29	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	19	0.731494252873563	29	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	20	0.62735632183908	29	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	21	0.460689655172414	29	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	22	0.268045977011494	29	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	23	0.160229885057471	29	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	24	0.114252873563218	29	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	25	0.109885057471264	29	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	26	0.12	29	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	27	0.130114942528736	29	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	28	0.145747126436782	29	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	29	0.143908045977011	29	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	30	0.146206896551724	29	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	31	0.140975029726516	29	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	32	0.157931034482759	29	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	33	0.140689655172414	29	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	34	0.153333333333333	29	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	35	0.140459770114943	29	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	36	0.155632183908046	29	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	37	0.149885057471264	29	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	38	0.159080459770115	29	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	39	0.17448275862069	29	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	40	0.165977011494253	29	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	41	0.199770114942529	29	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	42	0.294712643678161	29	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	43	0.44183908045977	29	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	44	0.560919540229885	29	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	45	0.631264367816092	29	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	46	0.502988505747126	29	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch22_DGRP"	47	0.47816091954023	29	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	0	0.354814814814815	27	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	1	0.348641975308642	27	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	2	0.34641975308642	27	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	3	0.31283950617284	27	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	4	0.315308641975309	27	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	5	0.315061728395062	27	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	6	0.315555555555556	27	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	7	0.284691358024691	27	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	8	0.278518518518519	27	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	9	0.26320987654321	27	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	10	0.273333333333333	27	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	11	0.293086419753086	27	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	12	0.28962962962963	27	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	13	0.312592592592593	27	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	14	0.658271604938272	27	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	15	0.737037037037037	27	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	16	0.737530864197531	27	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	17	0.736543209876543	27	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	18	0.734567901234568	27	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	19	0.742222222222222	27	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	20	0.733333333333333	27	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	21	0.63358024691358	27	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	22	0.462716049382716	27	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	23	0.311111111111111	27	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	24	0.214074074074074	27	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	25	0.152098765432099	27	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	26	0.154567901234568	27	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	27	0.17358024691358	27	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	28	0.174320987654321	27	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	29	0.169876543209877	27	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	30	0.176049382716049	27	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	31	0.160246913580247	27	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	32	0.186666666666667	27	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	33	0.167901234567901	27	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	34	0.196049382716049	27	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	35	0.228888888888889	27	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	36	0.234814814814815	27	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	37	0.242469135802469	27	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	38	0.26	27	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	39	0.287407407407407	27	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	40	0.306913580246914	27	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	41	0.391111111111111	27	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	42	0.450617283950617	27	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	43	0.522222222222222	27	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	44	0.584691358024691	27	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	45	0.531851851851852	27	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	46	0.433333333333333	27	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch23_DGRP"	47	0.365925925925926	27	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	0	0.347246376811594	23	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	1	0.354782608695652	23	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	2	0.308985507246377	23	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	3	0.32	23	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	4	0.258550724637681	23	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	5	0.241449275362319	23	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	6	0.248115942028986	23	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	7	0.220579710144928	23	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	8	0.228405797101449	23	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	9	0.226376811594203	23	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	10	0.225507246376812	23	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	11	0.255652173913043	23	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	12	0.28463768115942	23	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	13	0.273623188405797	23	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	14	0.551884057971015	23	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	15	0.591304347826087	23	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	16	0.625797101449275	23	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	17	0.635072463768116	23	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	18	0.702608695652174	23	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	19	0.688405797101449	23	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	20	0.632173913043478	23	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	21	0.535942028985507	23	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	22	0.348985507246377	23	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	23	0.214492753623188	23	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	24	0.114202898550725	23	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	25	0.0649275362318841	23	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	26	0.0510144927536232	23	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	27	0.0472463768115942	23	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	28	0.0426086956521739	23	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	29	0.0466666666666667	23	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	30	0.0515942028985507	23	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	31	0.0591304347826087	23	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	32	0.0582608695652174	23	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	33	0.056231884057971	23	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	34	0.0710144927536232	23	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	35	0.092463768115942	23	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	36	0.087536231884058	23	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	37	0.0997101449275362	23	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	38	0.101739130434783	23	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	39	0.11536231884058	23	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	40	0.123478260869565	23	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	41	0.150724637681159	23	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	42	0.205217391304348	23	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	43	0.291594202898551	23	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	44	0.417391304347826	23	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	45	0.531594202898551	23	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	46	0.459420289855073	23	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch24_DGRP"	47	0.415652173913044	23	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	0	0.299540229885058	29	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	1	0.294252873563218	29	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	2	0.28183908045977	29	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	3	0.254022988505747	29	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	4	0.246436781609195	29	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	5	0.244827586206897	29	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	6	0.206896551724138	29	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	7	0.208045977011494	29	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	8	0.188965517241379	29	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	9	0.212873563218391	29	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	10	0.214942528735632	29	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	11	0.219540229885057	29	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	12	0.239080459770115	29	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	13	0.251724137931035	29	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	14	0.504597701149425	29	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	15	0.625747126436782	29	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	16	0.706206896551724	29	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	17	0.703448275862069	29	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	18	0.71632183908046	29	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	19	0.73264367816092	29	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	20	0.670804597701149	29	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	21	0.513563218390805	29	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	22	0.363448275862069	29	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	23	0.191264367816092	29	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	24	0.104137931034483	29	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	25	0.0836781609195402	29	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	26	0.0751724137931035	29	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	27	0.0593103448275862	29	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	28	0.0588505747126437	29	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	29	0.0462068965517241	29	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	30	0.0381609195402299	29	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	31	0.0540229885057471	29	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	32	0.0475862068965517	29	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	33	0.063448275862069	29	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	34	0.06	29	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	35	0.0733333333333333	29	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	36	0.0793103448275862	29	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	37	0.0868965517241379	29	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	38	0.115632183908046	29	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	39	0.115862068965517	29	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	40	0.132413793103448	29	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	41	0.175862068965517	29	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	42	0.252183908045977	29	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	43	0.337931034482759	29	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	44	0.403218390804598	29	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	45	0.437931034482759	29	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	46	0.412413793103448	29	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch25_DGRP"	47	0.33264367816092	29	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	0	0.657634408602151	31	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	1	0.645806451612903	31	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	2	0.530967741935484	31	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	3	0.480645161290323	31	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	4	0.450322580645161	31	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	5	0.453548387096774	31	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	6	0.399784946236559	31	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	7	0.391182795698925	31	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	8	0.333978494623656	31	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	9	0.299569892473118	31	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	10	0.267311827956989	31	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	11	0.263870967741936	31	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	12	0.268172043010753	31	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	13	0.247956989247312	31	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	14	0.274623655913979	31	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	15	0.276344086021505	31	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	16	0.307741935483871	31	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	17	0.335698924731183	31	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	18	0.679139784946237	31	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	19	0.74989247311828	31	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	20	0.680645161290323	31	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	21	0.601720430107527	31	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	22	0.483225806451613	31	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	23	0.321720430107527	31	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	24	0.225376344086022	31	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	25	0.162365591397849	31	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	26	0.124731182795699	31	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	27	0.11505376344086	31	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	28	0.103010752688172	31	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	29	0.11247311827957	31	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	30	0.128172043010753	31	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	31	0.113763440860215	31	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	32	0.144516129032258	31	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	33	0.155913978494624	31	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	34	0.135913978494624	31	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	35	0.156129032258065	31	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	36	0.169032258064516	31	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	37	0.193763440860215	31	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	38	0.145376344086022	31	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	39	0.140215053763441	31	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	40	0.169677419354839	31	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	41	0.167956989247312	31	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	42	0.169032258064516	31	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	43	0.198924731182796	31	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	44	0.228817204301075	31	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	45	0.299354838709677	31	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	46	0.441935483870968	31	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch26_DGRP"	47	0.589247311827957	31	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	0	0.690114942528736	29	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	1	0.680689655172414	29	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	2	0.61632183908046	29	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	3	0.525977011494253	29	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	4	0.54367816091954	29	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	5	0.525057471264368	29	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	6	0.496551724137931	29	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	7	0.488505747126437	29	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	8	0.437471264367816	29	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	9	0.407126436781609	29	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	10	0.380229885057471	29	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	11	0.413333333333333	29	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	12	0.421379310344828	29	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	13	0.380459770114943	29	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	14	0.375402298850575	29	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	15	0.37632183908046	29	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	16	0.388045977011494	29	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	17	0.407816091954023	29	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	18	0.726206896551724	29	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	19	0.74551724137931	29	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	20	0.677011494252874	29	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	21	0.575402298850575	29	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	22	0.391954022988506	29	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	23	0.263218390804598	29	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	24	0.145057471264368	29	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	25	0.150574712643678	29	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	26	0.151494252873563	29	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	27	0.175862068965517	29	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	28	0.18183908045977	29	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	29	0.206666666666667	29	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	30	0.191034482758621	29	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	31	0.210344827586207	29	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	32	0.216551724137931	29	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	33	0.191954022988506	29	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	34	0.197241379310345	29	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	35	0.217241379310345	29	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	36	0.187816091954023	29	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	37	0.209655172413793	29	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	38	0.181379310344828	29	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	39	0.171954022988506	29	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	40	0.212873563218391	29	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	41	0.181379310344828	29	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	42	0.209885057471264	29	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	43	0.205287356321839	29	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	44	0.270804597701149	29	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	45	0.419310344827586	29	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	46	0.589885057471264	29	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch27_DGRP"	47	0.700919540229885	29	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	0	0.511111111111111	27	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	1	0.52320987654321	27	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	2	0.537777777777778	27	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	3	0.522716049382716	27	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	4	0.476049382716049	27	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	5	0.399259259259259	27	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	6	0.331358024691358	27	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	7	0.272098765432099	27	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	8	0.278271604938272	27	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	9	0.233333333333333	27	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	10	0.222222222222222	27	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	11	0.215308641975309	27	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	12	0.232098765432099	27	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	13	0.235802469135802	27	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	14	0.241481481481482	27	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	15	0.232098765432099	27	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	16	0.243703703703704	27	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	17	0.268641975308642	27	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	18	0.642222222222222	27	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	19	0.594567901234568	27	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	20	0.55283950617284	27	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	21	0.441975308641975	27	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	22	0.26641975308642	27	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	23	0.144691358024691	27	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	24	0.0958024691358025	27	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	25	0.0765432098765432	27	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	26	0.0911111111111111	27	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	27	0.097037037037037	27	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	28	0.0901234567901234	27	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	29	0.0918518518518519	27	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	30	0.0987654320987654	27	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	31	0.0990123456790123	27	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	32	0.103950617283951	27	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	33	0.0869135802469136	27	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	34	0.0962962962962963	27	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	35	0.105679012345679	27	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	36	0.0977777777777778	27	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	37	0.088641975308642	27	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	38	0.0866666666666667	27	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	39	0.0896296296296296	27	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	40	0.115555555555556	27	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	41	0.125925925925926	27	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	42	0.116049382716049	27	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	43	0.128148148148148	27	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	44	0.145185185185185	27	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	45	0.214320987654321	27	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	46	0.354320987654321	27	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch28_DGRP"	47	0.463950617283951	27	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	0	0.623589743589744	26	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	1	0.672307692307692	26	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	2	0.494358974358974	26	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	3	0.408717948717949	26	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	4	0.362051282051282	26	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	5	0.303076923076923	26	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	6	0.280769230769231	26	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	7	0.235384615384615	26	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	8	0.245897435897436	26	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	9	0.238205128205128	26	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	10	0.226666666666667	26	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	11	0.232820512820513	26	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	12	0.213846153846154	26	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	13	0.227179487179487	26	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	14	0.241282051282051	26	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	15	0.263333333333333	26	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	16	0.261794871794872	26	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	17	0.275641025641026	26	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	18	0.660512820512821	26	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	19	0.714102564102564	26	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	20	0.677948717948718	26	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	21	0.625128205128205	26	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	22	0.47974358974359	26	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	23	0.342307692307692	26	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	24	0.182307692307692	26	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	25	0.0976923076923077	26	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	26	0.0669230769230769	26	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	27	0.0476923076923077	26	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	28	0.0461538461538462	26	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	29	0.0497435897435897	26	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	30	0.0405128205128205	26	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	31	0.0482051282051282	26	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	32	0.0443589743589744	26	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	33	0.0512820512820513	26	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	34	0.0507692307692308	26	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	35	0.0435897435897436	26	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	36	0.0379487179487179	26	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	37	0.0594871794871795	26	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	38	0.0594871794871795	26	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	39	0.07	26	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	40	0.0602564102564103	26	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	41	0.0474358974358974	26	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	42	0.0428205128205128	26	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	43	0.0351282051282051	26	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	44	0.05	26	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	45	0.126153846153846	26	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	46	0.283333333333333	26	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch29_DGRP"	47	0.461282051282051	26	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	0	0.62875	32	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	1	0.626875	32	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	2	0.58625	32	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	3	0.535208333333333	32	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	4	0.476458333333333	32	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	5	0.426875	32	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	6	0.395625	32	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	7	0.379375	32	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	8	0.354375	32	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	9	0.363958333333333	32	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	10	0.341458333333333	32	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	11	0.329375	32	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	12	0.34375	32	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	13	0.357916666666667	32	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	14	0.371875	32	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	15	0.361458333333333	32	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	16	0.751875	32	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	17	0.652708333333333	32	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	18	0.613125	32	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	19	0.524583333333333	32	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	20	0.382083333333333	32	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	21	0.275625	32	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	22	0.231666666666667	32	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	23	0.179375	32	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	24	0.224791666666667	32	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	25	0.208125	32	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	26	0.204583333333333	32	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	27	0.194166666666667	32	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	28	0.180416666666667	32	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	29	0.195208333333333	32	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	30	0.179583333333333	32	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	31	0.16625	32	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	32	0.160208333333333	32	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	33	0.147916666666667	32	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	34	0.134791666666667	32	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	35	0.14125	32	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	36	0.113125	32	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	37	0.0952083333333333	32	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	38	0.09625	32	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	39	0.0816666666666667	32	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	40	0.103541666666667	32	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	41	0.099375	32	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	42	0.172083333333333	32	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	43	0.31375	32	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	44	0.5125	32	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	45	0.61	32	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	46	0.616458333333333	32	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch3_DGRP"	47	0.633541666666667	32	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	0	0.588235294117647	17	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	1	0.646666666666667	17	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	2	0.413333333333333	17	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	3	0.342745098039216	17	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	4	0.36	17	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	5	0.352549019607843	17	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	6	0.314117647058824	17	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	7	0.262745098039216	17	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	8	0.259607843137255	17	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	9	0.217254901960784	17	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	10	0.201960784313725	17	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	11	0.209019607843137	17	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	12	0.216470588235294	17	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	13	0.199607843137255	17	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	14	0.20078431372549	17	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	15	0.197647058823529	17	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	16	0.228627450980392	17	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	17	0.208627450980392	17	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	18	0.638823529411765	17	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	19	0.663921568627451	17	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	20	0.590980392156863	17	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	21	0.495686274509804	17	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	22	0.341960784313726	17	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	23	0.163137254901961	17	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	24	0.04	17	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	25	0.0286274509803922	17	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	26	0.0172549019607843	17	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	27	0.0117647058823529	17	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	28	0.0145098039215686	17	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	29	0.00862745098039216	17	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	30	0.0125490196078431	17	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	31	0.0156862745098039	17	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	32	0.0156862745098039	17	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	33	0.0141176470588235	17	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	34	0.0145098039215686	17	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	35	0.0141176470588235	17	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	36	0.0145098039215686	17	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	37	0.0117647058823529	17	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	38	0.00745098039215686	17	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	39	0.0156862745098039	17	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	40	0.02	17	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	41	0.0145098039215686	17	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	42	0.0129411764705882	17	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	43	0.0176470588235294	17	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	44	0.0368627450980392	17	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	45	0.0729411764705882	17	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	46	0.203529411764706	17	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch31_DGRP"	47	0.375294117647059	17	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	0	0.491111111111111	21	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	1	0.473015873015873	21	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	2	0.447936507936508	21	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	3	0.422539682539683	21	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	4	0.366984126984127	21	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	5	0.31047619047619	21	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	6	0.279047619047619	21	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	7	0.224126984126984	21	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	8	0.228888888888889	21	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	9	0.214603174603175	21	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	10	0.187619047619048	21	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	11	0.200634920634921	21	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	12	0.22	21	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	13	0.202222222222222	21	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	14	0.245079365079365	21	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	15	0.251428571428571	21	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	16	0.556190476190476	21	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	17	0.505714285714286	21	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	18	0.462539682539683	21	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	19	0.431428571428571	21	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	20	0.334920634920635	21	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	21	0.186031746031746	21	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	22	0.0695238095238095	21	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	23	0.0155555555555556	21	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	24	0.0126984126984127	21	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	25	0.0101587301587302	21	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	26	0.00571428571428571	21	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	27	0.00888888888888889	21	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	28	0.0180952380952381	21	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	29	0.00952380952380953	21	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	30	0.0114285714285714	21	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	31	0.0126984126984127	21	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	32	0.0111111111111111	21	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	33	0.013968253968254	21	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	34	0.0231746031746032	21	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	35	0.0263492063492064	21	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	36	0.0152380952380952	21	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	37	0.020952380952381	21	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	38	0.026984126984127	21	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	39	0.0333333333333333	21	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	40	0.0257142857142857	21	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	41	0.0247619047619048	21	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	42	0.0479365079365079	21	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	43	0.135873015873016	21	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	44	0.239365079365079	21	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	45	0.337460317460317	21	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	46	0.462857142857143	21	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch5b_DGRP"	47	0.545396825396825	21	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	0	0.508055555555556	24	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	1	0.556388888888889	24	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	2	0.540277777777778	24	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	3	0.497222222222222	24	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	4	0.477222222222222	24	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	5	0.389444444444444	24	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	6	0.33	24	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	7	0.344444444444444	24	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	8	0.31	24	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	9	0.300833333333333	24	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	10	0.267777777777778	24	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	11	0.258055555555556	24	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	12	0.281944444444444	24	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	13	0.269444444444444	24	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	14	0.266666666666667	24	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	15	0.284166666666667	24	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	16	0.649166666666667	24	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	17	0.649722222222222	24	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	18	0.638333333333333	24	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	19	0.5975	24	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	20	0.546666666666667	24	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	21	0.383888888888889	24	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	22	0.215555555555556	24	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	23	0.104722222222222	24	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	24	0.0644444444444445	24	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	25	0.0611111111111111	24	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	26	0.0688888888888889	24	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	27	0.0794444444444445	24	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	28	0.0888888888888889	24	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	29	0.105555555555556	24	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	30	0.114722222222222	24	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	31	0.113055555555556	24	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	32	0.121388888888889	24	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	33	0.109166666666667	24	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	34	0.0888888888888889	24	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	35	0.100277777777778	24	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	36	0.1	24	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	37	0.0741666666666667	24	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	38	0.06	24	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	39	0.0672222222222222	24	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	40	0.0722222222222222	24	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	41	0.0736111111111111	24	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	42	0.0922222222222222	24	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	43	0.198888888888889	24	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	44	0.309166666666667	24	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	45	0.468888888888889	24	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	46	0.621666666666667	24	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch6_DGRP"	47	0.659722222222222	24	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	0	0.296904761904762	28	"moving"	0.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	1	0.22452380952381	28	"moving"	0.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	2	0.212619047619048	28	"moving"	1.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	3	0.219285714285714	28	"moving"	1.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	4	0.22047619047619	28	"moving"	2.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	5	0.230952380952381	28	"moving"	2.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	6	0.207142857142857	28	"moving"	3.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	7	0.214047619047619	28	"moving"	3.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	8	0.211428571428571	28	"moving"	4.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	9	0.2	28	"moving"	4.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	10	0.188809523809524	28	"moving"	5.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	11	0.190714285714286	28	"moving"	5.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	12	0.183809523809524	28	"moving"	6.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	13	0.184761904761905	28	"moving"	6.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	14	0.201904761904762	28	"moving"	7.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	15	0.186190476190476	28	"moving"	7.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	16	0.593095238095238	28	"moving"	8.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	17	0.632142857142857	28	"moving"	8.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	18	0.630238095238095	28	"moving"	9.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	19	0.648809523809524	28	"moving"	9.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	20	0.664285714285714	28	"moving"	10.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	21	0.657142857142857	28	"moving"	10.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	22	0.635714285714286	28	"moving"	11.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	23	0.541666666666667	28	"moving"	11.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	24	0.413809523809524	28	"moving"	12.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	25	0.269761904761905	28	"moving"	12.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	26	0.183571428571429	28	"moving"	13.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	27	0.121904761904762	28	"moving"	13.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	28	0.124047619047619	28	"moving"	14.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	29	0.106666666666667	28	"moving"	14.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	30	0.111190476190476	28	"moving"	15.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	31	0.128333333333333	28	"moving"	15.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	32	0.128809523809524	28	"moving"	16.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	33	0.131428571428571	28	"moving"	16.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	34	0.16047619047619	28	"moving"	17.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	35	0.163809523809524	28	"moving"	17.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	36	0.165	28	"moving"	18.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	37	0.165	28	"moving"	18.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	38	0.182619047619048	28	"moving"	19.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	39	0.19547619047619	28	"moving"	19.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	40	0.206666666666667	28	"moving"	20.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	41	0.232142857142857	28	"moving"	20.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	42	0.240238095238095	28	"moving"	21.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	43	0.296666666666667	28	"moving"	21.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	44	0.355952380952381	28	"moving"	22.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	45	0.458809523809524	28	"moving"	22.75	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	46	0.487619047619048	28	"moving"	23.25	22	577	"CS
+n = 577 flies, 22 batches"
+"CS"	"Batch9_DGRP"	47	0.485952380952381	28	"moving"	23.75	22	577	"CS
+n = 577 flies, 22 batches"
+"DGRP129"	"Batch15_DGRP"	0	0.0719540229885057	29	"moving"	0.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	1	0.0749425287356322	29	"moving"	0.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	2	0.08	29	"moving"	1.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	3	0.115172413793103	29	"moving"	1.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	4	0.126666666666667	29	"moving"	2.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	5	0.138850574712644	29	"moving"	2.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	6	0.160459770114943	29	"moving"	3.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	7	0.182988505747126	29	"moving"	3.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	8	0.174252873563218	29	"moving"	4.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	9	0.233793103448276	29	"moving"	4.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	10	0.243908045977012	29	"moving"	5.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	11	0.264137931034483	29	"moving"	5.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	12	0.321379310344828	29	"moving"	6.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	13	0.380919540229885	29	"moving"	6.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	14	0.570344827586207	29	"moving"	7.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	15	0.457241379310345	29	"moving"	7.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	16	0.319540229885058	29	"moving"	8.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	17	0.133333333333333	29	"moving"	8.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	18	0.0439080459770115	29	"moving"	9.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	19	0.0268965517241379	29	"moving"	9.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	20	0.0335632183908046	29	"moving"	10.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	21	0.031264367816092	29	"moving"	10.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	22	0.0204597701149425	29	"moving"	11.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	23	0.0386206896551724	29	"moving"	11.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	24	0.0613793103448276	29	"moving"	12.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	25	0.08	29	"moving"	12.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	26	0.0981609195402299	29	"moving"	13.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	27	0.13632183908046	29	"moving"	13.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	28	0.153793103448276	29	"moving"	14.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	29	0.176091954022989	29	"moving"	14.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	30	0.20183908045977	29	"moving"	15.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	31	0.169655172413793	29	"moving"	15.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	32	0.148965517241379	29	"moving"	16.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	33	0.146896551724138	29	"moving"	16.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	34	0.135402298850575	29	"moving"	17.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	35	0.174252873563218	29	"moving"	17.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	36	0.182988505747126	29	"moving"	18.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	37	0.225977011494253	29	"moving"	18.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	38	0.227126436781609	29	"moving"	19.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	39	0.228275862068966	29	"moving"	19.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	40	0.247586206896552	29	"moving"	20.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	41	0.206436781609195	29	"moving"	20.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	42	0.175862068965517	29	"moving"	21.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	43	0.16551724137931	29	"moving"	21.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	44	0.164597701149425	29	"moving"	22.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	45	0.152873563218391	29	"moving"	22.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	46	0.14	29	"moving"	23.25	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP129"	"Batch15_DGRP"	47	0.0639080459770115	29	"moving"	23.75	1	29	"DGRP129
+n = 29 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	0	0.435333333333333	30	"moving"	0.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	1	0.343777777777778	30	"moving"	0.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	2	0.282666666666667	30	"moving"	1.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	3	0.312888888888889	30	"moving"	1.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	4	0.323333333333333	30	"moving"	2.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	5	0.322	30	"moving"	2.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	6	0.342222222222222	30	"moving"	3.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	7	0.39	30	"moving"	3.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	8	0.383555555555556	30	"moving"	4.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	9	0.407333333333333	30	"moving"	4.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	10	0.464666666666667	30	"moving"	5.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	11	0.476888888888889	30	"moving"	5.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	12	0.484	30	"moving"	6.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	13	0.507333333333333	30	"moving"	6.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	14	0.582222222222222	30	"moving"	7.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	15	0.777333333333333	30	"moving"	7.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	16	0.754444444444444	30	"moving"	8.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	17	0.764444444444445	30	"moving"	8.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	18	0.749777777777778	30	"moving"	9.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	19	0.716444444444444	30	"moving"	9.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	20	0.615333333333333	30	"moving"	10.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	21	0.511111111111111	30	"moving"	10.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	22	0.399333333333333	30	"moving"	11.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	23	0.294444444444444	30	"moving"	11.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	24	0.241111111111111	30	"moving"	12.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	25	0.224	30	"moving"	12.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	26	0.183777777777778	30	"moving"	13.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	27	0.194666666666667	30	"moving"	13.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	28	0.204444444444444	30	"moving"	14.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	29	0.174888888888889	30	"moving"	14.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	30	0.235555555555556	30	"moving"	15.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	31	0.251777777777778	30	"moving"	15.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	32	0.253333333333333	30	"moving"	16.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	33	0.296888888888889	30	"moving"	16.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	34	0.331333333333333	30	"moving"	17.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	35	0.388	30	"moving"	17.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	36	0.397555555555556	30	"moving"	18.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	37	0.406222222222222	30	"moving"	18.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	38	0.410222222222222	30	"moving"	19.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	39	0.451555555555556	30	"moving"	19.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	40	0.434444444444444	30	"moving"	20.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	41	0.453111111111111	30	"moving"	20.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	42	0.408888888888889	30	"moving"	21.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	43	0.369111111111111	30	"moving"	21.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	44	0.362888888888889	30	"moving"	22.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	45	0.336222222222222	30	"moving"	22.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	46	0.546666666666667	30	"moving"	23.25	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP810"	"Batch25_DGRP"	47	0.576888888888889	30	"moving"	23.75	1	30	"DGRP810
+n = 30 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	0	0.378611111111111	24	"moving"	0.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	1	0.318611111111111	24	"moving"	0.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	2	0.271944444444444	24	"moving"	1.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	3	0.229444444444444	24	"moving"	1.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	4	0.201666666666667	24	"moving"	2.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	5	0.2025	24	"moving"	2.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	6	0.184166666666667	24	"moving"	3.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	7	0.171944444444444	24	"moving"	3.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	8	0.170555555555556	24	"moving"	4.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	9	0.188055555555556	24	"moving"	4.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	10	0.2125	24	"moving"	5.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	11	0.190555555555556	24	"moving"	5.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	12	0.220555555555556	24	"moving"	6.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	13	0.251111111111111	24	"moving"	6.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	14	0.216944444444444	24	"moving"	7.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	15	0.290833333333333	24	"moving"	7.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	16	0.703888888888889	24	"moving"	8.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	17	0.771388888888889	24	"moving"	8.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	18	0.765	24	"moving"	9.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	19	0.731666666666667	24	"moving"	9.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	20	0.679166666666667	24	"moving"	10.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	21	0.549722222222222	24	"moving"	10.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	22	0.350277777777778	24	"moving"	11.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	23	0.181111111111111	24	"moving"	11.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	24	0.0838888888888889	24	"moving"	12.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	25	0.0638888888888889	24	"moving"	12.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	26	0.065	24	"moving"	13.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	27	0.0744444444444444	24	"moving"	13.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	28	0.0738888888888889	24	"moving"	14.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	29	0.0636111111111111	24	"moving"	14.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	30	0.0725	24	"moving"	15.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	31	0.0797222222222222	24	"moving"	15.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	32	0.0666666666666667	24	"moving"	16.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	33	0.0763888888888889	24	"moving"	16.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	34	0.0786111111111111	24	"moving"	17.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	35	0.0783333333333333	24	"moving"	17.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	36	0.0816666666666667	24	"moving"	18.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	37	0.0805555555555556	24	"moving"	18.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	38	0.0725	24	"moving"	19.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	39	0.0780555555555556	24	"moving"	19.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	40	0.0711111111111111	24	"moving"	20.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	41	0.0761111111111111	24	"moving"	20.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	42	0.0780555555555556	24	"moving"	21.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	43	0.0697222222222222	24	"moving"	21.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	44	0.101388888888889	24	"moving"	22.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	45	0.209722222222222	24	"moving"	22.75	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	46	0.309166666666667	24	"moving"	23.25	1	24	"DGRP897
+n = 24 flies, 1 batch"
+"DGRP897"	"Batch5b_DGRP"	47	0.503055555555556	24	"moving"	23.75	1	24	"DGRP897
+n = 24 flies, 1 batch"

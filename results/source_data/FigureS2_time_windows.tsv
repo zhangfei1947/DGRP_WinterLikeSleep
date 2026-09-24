@@ -1,0 +1,10 @@
+metric	contrast	n_common_lines	n_DGRP_flies	n_DGRP_cells	spearman	same_sign_fraction	trait	window
+"DarkSleep"	"Late2_Early2"	176	5609	256	0.950239929561963	0.909090909090909	"Night sleep"	"D5-D6 mean minus D1-D2 mean"
+"DarkSleep"	"D6_D2"	176	5609	256	0.878516398855382	0.857954545454545	"Night sleep"	"D6 minus D2"
+"DarkSleep"	"Late2_D2D3"	176	5609	256	0.843138895003302	0.852272727272727	"Night sleep"	"D5-D6 mean minus D2-D3 mean"
+"LightSleep"	"Late2_Early2"	169	5427	248	0.948466013624385	0.905325443786982	"Day sleep"	"D5-D6 mean minus D1-D2 mean"
+"LightSleep"	"D6_D2"	169	5427	248	0.822492665705336	0.822485207100592	"Day sleep"	"D6 minus D2"
+"LightSleep"	"Late2_D2D3"	169	5427	248	0.778320322211725	0.792899408284024	"Day sleep"	"D5-D6 mean minus D2-D3 mean"
+"TotalSleep"	"Late2_Early2"	169	5427	248	0.959432648799165	0.93491124260355	"Total sleep"	"D5-D6 mean minus D1-D2 mean"
+"TotalSleep"	"D6_D2"	169	5427	248	0.886609318283527	0.875739644970414	"Total sleep"	"D6 minus D2"
+"TotalSleep"	"Late2_D2D3"	169	5427	248	0.856382079459003	0.875739644970414	"Total sleep"	"D5-D6 mean minus D2-D3 mean"

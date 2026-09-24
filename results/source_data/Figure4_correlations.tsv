@@ -1,0 +1,37 @@
+a	b	rho
+"Night sleep change"	"Night sleep change"	1
+"Moving shape PC1"	"Night sleep change"	-0.0190314769975787
+"Night P(Wake)"	"Night sleep change"	-0.353061853400836
+"Night P(Doze)"	"Night sleep change"	0.0714549856922738
+"LD harmonic R2"	"Night sleep change"	-0.0549636803874092
+"Total sleep"	"Night sleep change"	0.354382566585956
+"Night sleep change"	"Moving shape PC1"	-0.0190314769975787
+"Moving shape PC1"	"Moving shape PC1"	1
+"Night P(Wake)"	"Moving shape PC1"	0.282621615672463
+"Night P(Doze)"	"Moving shape PC1"	-0.465698877393793
+"LD harmonic R2"	"Moving shape PC1"	0.441778560422628
+"Total sleep"	"Moving shape PC1"	-0.205487563284173
+"Night sleep change"	"Night P(Wake)"	-0.353061853400836
+"Moving shape PC1"	"Night P(Wake)"	0.282621615672463
+"Night P(Wake)"	"Night P(Wake)"	1
+"Night P(Doze)"	"Night P(Wake)"	-0.159203169711644
+"LD harmonic R2"	"Night P(Wake)"	0.280338983050847
+"Total sleep"	"Night P(Wake)"	-0.853075060532688
+"Night sleep change"	"Night P(Doze)"	0.0714549856922738
+"Moving shape PC1"	"Night P(Doze)"	-0.465698877393793
+"Night P(Wake)"	"Night P(Doze)"	-0.159203169711644
+"Night P(Doze)"	"Night P(Doze)"	1
+"LD harmonic R2"	"Night P(Doze)"	-0.354721549636804
+"Total sleep"	"Night P(Doze)"	0.46187541272287
+"Night sleep change"	"LD harmonic R2"	-0.0549636803874092
+"Moving shape PC1"	"LD harmonic R2"	0.441778560422628
+"Night P(Wake)"	"LD harmonic R2"	0.280338983050847
+"Night P(Doze)"	"LD harmonic R2"	-0.354721549636804
+"LD harmonic R2"	"LD harmonic R2"	1
+"Total sleep"	"LD harmonic R2"	-0.340757208892802
+"Night sleep change"	"Total sleep"	0.354382566585956
+"Moving shape PC1"	"Total sleep"	-0.205487563284173
+"Night P(Wake)"	"Total sleep"	-0.853075060532688
+"Night P(Doze)"	"Total sleep"	0.46187541272287
+"LD harmonic R2"	"Total sleep"	-0.340757208892802
+"Total sleep"	"Total sleep"	1

@@ -1,0 +1,7 @@
+trait	phenotype	reporting_label	window	units	caveat	computation_changed
+"NightSleepChange"	"DarkSleep__D6_D1"	"Nighttime sleep change during individual housing under short-day conditions"	"D6 minus D1"	"minutes"	"not pre-isolation vs post-isolation or a net isolation effect"	FALSE
+"MovingShapePC1"	"PCA_moving_centered_shape_PC1"	"Centered moving-profile PC1 under short-day individual housing"	"D2-D6"	"PC score"	"mean-centering preserves amplitude; no proof of completed entrainment"	FALSE
+"NightPWake"	"PWakeDark__State_D2_D6"	"Nighttime P(Wake) during short-day individual housing"	"D2-D6"	"log odds"	"one-minute inactivity-to-activity transition, not five-minute sleep-to-wake"	FALSE
+"NightPDoze"	"PDozeDark__State_D2_D6"	"Nighttime P(Doze) during short-day individual housing"	"D2-D6"	"log odds"	"one-minute activity-to-inactivity transition, not five-minute wake-to-sleep"	FALSE
+"LDHarmonicR2"	"TwoHarmonicR2__State_D2_D6"	"LD harmonic fit of moving profiles during short-day individual housing"	"D2-D6"	"R-squared"	"LD fit, not an endogenous DD rhythmicity test"	FALSE
+"TotalSleep"	"TotalSleep__State_D2_D6"	"Total sleep during short-day individual housing"	"D2-D6"	"minutes"	"window summary, not assumed steady-state"	FALSE

@@ -1,0 +1,10 @@
+    package installed version
+ data.table      TRUE  1.17.8
+       damr      TRUE   0.3.8
+     behavr      TRUE   0.3.3
+     sleepr      TRUE   0.3.1
+    ggplot2      TRUE   4.0.1
+    ggrepel      TRUE   0.9.6
+  patchwork      TRUE   1.3.2
+       lme4      TRUE  1.1.37
+[1] "R version 4.4.2 (2024-10-31)"

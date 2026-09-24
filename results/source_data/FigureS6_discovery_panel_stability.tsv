@@ -1,0 +1,11 @@
+phenotype	family	repeatability_rho	selected_replicates	selection_frequency	rank_median	rank_q025	rank_q975	rho_q025	rho_q975	in_frozen_QA_pool	in_original_discovery_panel	frozen_primary_GWAS	label
+"DarkSleep__D6_D1"	"sleep_amount_allocation"	0.564196108382961	500	1	34	10	49	0.337639689279613	0.721173543917852	TRUE	TRUE	TRUE	"Night sleep change (forced)"
+"TwoHarmonicR2__State_D2_D6"	"LD_profile"	0.652530540401513	318	0.636	19	5	44	0.467515232026879	0.772879753785024	TRUE	TRUE	TRUE	"LD harmonic R2"
+"PDozeDark__State_D2_D6"	"sleep_architecture"	0.715902157414089	304	0.608	12	1	36	0.553837083454498	0.817810787829128	TRUE	TRUE	TRUE	"Night P(Doze)"
+"ActivityLight__State_D2_D6"	"activity"	0.586788629977359	250	0.5	30	9	50	0.372652443674678	0.744261117618534	TRUE	TRUE	FALSE	"Day activity rate"
+"PCA_moving_raw_PC1"	"profile_PCA"	0.822520987230945	204	0.408	2	1	10	0.687745323595794	0.878680452727105	TRUE	TRUE	FALSE	"Raw moving PC1"
+"LightSleep__State_D2_D6"	"sleep_amount_allocation"	0.72417835446936	198	0.396	9	2	30	0.55623556569272	0.829142964314008	TRUE	TRUE	FALSE	"Day sleep"
+"Harmonic24Amplitude__State_D2_D6"	"LD_profile"	0.612620683139179	189	0.378	24	9	46.525	0.437016780274851	0.751496334339345	TRUE	TRUE	FALSE	"24-h harmonic amplitude"
+"PWakeDark__State_D2_D6"	"sleep_architecture"	0.71250905451606	114	0.228	11	4	36	0.5095710847603	0.829034261394647	TRUE	TRUE	TRUE	"Night P(Wake)"
+"MovingLight__D6_D1"	"activity"	0.588277526869194	103	0.206	31	7	49	0.383938957999857	0.7504033121943	TRUE	TRUE	FALSE	"Day moving D6 - D1"
+"PCA_moving_centered_shape_PC1"	"profile_PCA"	0.578404235588885	102	0.204	32	11	48	0.374054079797233	0.703971706538226	TRUE	TRUE	TRUE	"Moving shape PC1"
